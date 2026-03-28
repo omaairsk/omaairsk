@@ -8,17 +8,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffcc,100:0d0d0d&height=200&section=header&text=iamfardinsk&fontSize=60&fontColor=00ffcc&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Secure%20Systems&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:FFB347,100:0d0d0d&height=200&section=header&text=iamfardinsk&fontSize=60&fontColor=FFB347&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Secure%20Systems&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;WebRTC+%7C+P2P+%7C+Encryption+%7C+AI;Currently+building+%5BNEURAL_LINK%5D...;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;WebRTC+%7C+P2P+%7C+Encryption+%7C+AI;Currently+building+%5BNEURAL_LINK%5D...;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=omaairsk&color=00ffcc&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/omaairsk?style=flat-square&color=00ffcc&labelColor=0d1117&label=FOLLOWERS)](https://github.com/omaairsk?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/omaairsk?style=flat-square&color=00ffcc&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/omaairsk)
+![Profile Views](https://komarev.com/ghpvc/?username=omaairsk&color=FFB347&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/omaairsk?style=flat-square&color=FFB347&labelColor=0d1117&label=FOLLOWERS)](https://github.com/omaairsk?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/omaairsk?style=flat-square&color=FFB347&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/omaairsk)
 
 </div>
 
@@ -65,7 +65,7 @@ const iamfardinsk = {
 **Specializations**
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![AES Encryption](https://img.shields.io/badge/AES--256--GCM-00ffcc?style=for-the-badge&logo=letsencrypt&logoColor=black)
+![AES Encryption](https://img.shields.io/badge/AES--256--GCM-FFB347?style=for-the-badge&logo=letsencrypt&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Tools**
@@ -99,15 +99,15 @@ const iamfardinsk = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omaairsk&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=cccccc&border_color=00ffcc22&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omaairsk&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFB347&icon_color=FFB347&text_color=cccccc&border_color=FFB34722&hide_border=false&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaairsk&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffcc&text_color=cccccc&border_color=00ffcc22&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaairsk&layout=compact&theme=dark&bg_color=0d1117&title_color=FFB347&text_color=cccccc&border_color=FFB34722&hide_border=false"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omaairsk&theme=dark&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=aaaaaa&dates=666666&border=00ffcc22" />
+<img src="https://streak-stats.demolab.com?user=omaairsk&theme=dark&background=0d1117&ring=FFB347&fire=FFB347&currStreakLabel=FFB347&sideLabels=aaaaaa&dates=666666&border=FFB34722" />
 
 </div>
 
@@ -117,7 +117,7 @@ const iamfardinsk = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaairsk&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&area_color=00ffcc&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaairsk&bg_color=0d1117&color=FFB347&line=FFB347&point=ffffff&area=true&area_color=FFB347&hide_border=true" width="100%"/>
 
 </div>
 
@@ -138,7 +138,7 @@ const iamfardinsk = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffcc,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:FFB347,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 *"Build things that are impossible to ignore."*
 
